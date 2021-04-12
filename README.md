@@ -16,20 +16,21 @@ This project is a Weather Dashboard. The purpose of this project is to allow a U
 <a name="use"></a>
 A User types in the name of a city 
   Then the User is then shown 
-  
-    <ins> the city's current: </ins>
-          1.Current Date 
+       
+       The City's Current:
+          1.Date 
           2.An icon that represents current Weather conditions. 
           3.Weather conditions
           4.Temperature
           5.Humidity
           6.Wind speed
           7.UV index:
-            <ins> Colors indicates if UV conditions are: </ins>
+             Colors indicates if UV conditions are: 
                 Favorable - GREEN
                 Moderate - YELLOW
                 Severe - RED
-      <ins>City's 5-Day Forecast: </ins>
+                
+       City's 5-Day Forecast: 
          1.Displays the date
          2.An icon representation of Weather conditions
          3.The temperature
