@@ -16,6 +16,7 @@ This project is a Weather Dashboard. The purpose of this project is to allow a U
 <a name="use"></a>
 A User types in the name of a city 
   Then the User is then shown 
+  
     <ins> the city's current: </ins>
           1.Current Date 
           2.An icon that represents current Weather conditions. 
