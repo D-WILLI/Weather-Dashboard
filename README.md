@@ -21,7 +21,8 @@ This project is a Weather Dashboard.
 
 ## Demo 
 <a name="demo"></a>
-![MyGiph](https://media.giphy.com/media/zTpmTaihlshQ5jliXi/giphy.gif)
+![MyGiph](https://media.giphy.com/media/vbWmf6uJPP7IfbTjjN/giphy.gif)
+
 
 ## URL
 <a name="url"></a>
