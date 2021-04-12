@@ -1,0 +1,85 @@
+#header{
+    background-color:rgb(52,58,63);
+    color: white;
+    margin: 0% 0%;
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 500px;
+}
+
+/* general styling  */
+h1{
+    font-size: 4rem;
+}
+
+h2{
+    font-size: 30px;
+    margin: 3% 2%;
+}
+
+
+/* aside section styling */
+aside {
+    background-color: rgb(248, 249, 250);
+    margin: 0% 0%;
+    padding: 2% 1%;
+    width: 25%;
+}
+
+.btn, btn-outline-success{
+    background-color:rgb(22, 127, 251); 
+    color: white;
+}
+
+.form-control, me-2 {
+    width: 100%;
+}
+
+.savedData{
+    border-radius: 1%;
+    border:white 2px solid;
+    margin: 0% 1%;
+    width: 100%;
+}
+
+#savedRow .col-sm{
+    text-align: center;
+}
+
+/* current weather section styling */
+#currentWeather{
+    border: 1px rgb(223, 223, 223) solid;
+    margin: 40% 26%;
+    border-radius: 1%;
+    text-align: left;
+    margin-top: -14%;
+    margin-bottom: -10%;
+    margin-right: -20%;
+}
+
+#container-body{
+    margin: -10% 4%;
+    padding: 0% 1%;
+}
+
+#row{
+    margin: 30% 0%;
+    margin-bottom: -90%;
+    margin-left: 30%;
+    margin-right: 0%;
+    
+}
+
+#uvData{
+    margin-right: 95%;
+}
+
+/* five day section styling */
+#row .card{
+    margin: 10% 1%;
+    background-color: rgb(22, 127, 251);
+    width: 11rem;
+    font-size: 90%;
+    text-align: center;
+}
+
